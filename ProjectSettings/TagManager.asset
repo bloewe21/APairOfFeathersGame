@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Freeze
+  - Water
+  - Conveyor
+  - Lava
+  - Heat
+  - Ground
+  - Gravity
+  - Ending
+  - Sound
+  - Camera
+  - Music
+  - Collectible
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - Ceiling
+  - Slope
+  - ConveyorRight
+  - ConveyorLeft
+  - PhantomGround
+  - LavaLayer
+  - Freeze
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 4163935023
+    locked: 0
+  - name: Foreground
+    uniqueID: 3978376417
+    locked: 0
+  - name: UI
+    uniqueID: 3136184003
+    locked: 0
